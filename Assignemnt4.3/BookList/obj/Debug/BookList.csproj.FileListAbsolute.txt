@@ -1,0 +1,15 @@
+C:\Users\40012826\source\repos\WpfAssignment1\BookList\bin\Debug\BookList.exe.config
+C:\Users\40012826\source\repos\WpfAssignment1\BookList\bin\Debug\BookList.exe
+C:\Users\40012826\source\repos\WpfAssignment1\BookList\bin\Debug\BookList.pdb
+C:\Users\40012826\source\repos\WpfAssignment1\BookList\obj\Debug\BookList.csproj.AssemblyReference.cache
+C:\Users\40012826\source\repos\WpfAssignment1\BookList\obj\Debug\MainWindow.g.cs
+C:\Users\40012826\source\repos\WpfAssignment1\BookList\obj\Debug\App.g.cs
+C:\Users\40012826\source\repos\WpfAssignment1\BookList\obj\Debug\BookList_MarkupCompile.cache
+C:\Users\40012826\source\repos\WpfAssignment1\BookList\obj\Debug\BookList_MarkupCompile.lref
+C:\Users\40012826\source\repos\WpfAssignment1\BookList\obj\Debug\MainWindow.baml
+C:\Users\40012826\source\repos\WpfAssignment1\BookList\obj\Debug\BookList.g.resources
+C:\Users\40012826\source\repos\WpfAssignment1\BookList\obj\Debug\BookList.Properties.Resources.resources
+C:\Users\40012826\source\repos\WpfAssignment1\BookList\obj\Debug\BookList.csproj.GenerateResource.cache
+C:\Users\40012826\source\repos\WpfAssignment1\BookList\obj\Debug\BookList.csproj.CoreCompileInputs.cache
+C:\Users\40012826\source\repos\WpfAssignment1\BookList\obj\Debug\BookList.exe
+C:\Users\40012826\source\repos\WpfAssignment1\BookList\obj\Debug\BookList.pdb
