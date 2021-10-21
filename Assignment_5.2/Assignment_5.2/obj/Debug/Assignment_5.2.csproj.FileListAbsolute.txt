@@ -1,0 +1,15 @@
+C:\Users\40012826\source\repos\Assignment_5.2\Assignment_5.2\bin\Debug\Assignment_5.2.exe.config
+C:\Users\40012826\source\repos\Assignment_5.2\Assignment_5.2\bin\Debug\Assignment_5.2.exe
+C:\Users\40012826\source\repos\Assignment_5.2\Assignment_5.2\bin\Debug\Assignment_5.2.pdb
+C:\Users\40012826\source\repos\Assignment_5.2\Assignment_5.2\obj\Debug\Assignment_5.2.csproj.AssemblyReference.cache
+C:\Users\40012826\source\repos\Assignment_5.2\Assignment_5.2\obj\Debug\MainWindow.g.cs
+C:\Users\40012826\source\repos\Assignment_5.2\Assignment_5.2\obj\Debug\App.g.cs
+C:\Users\40012826\source\repos\Assignment_5.2\Assignment_5.2\obj\Debug\Assignment_5.2_MarkupCompile.cache
+C:\Users\40012826\source\repos\Assignment_5.2\Assignment_5.2\obj\Debug\Assignment_5.2_MarkupCompile.lref
+C:\Users\40012826\source\repos\Assignment_5.2\Assignment_5.2\obj\Debug\MainWindow.baml
+C:\Users\40012826\source\repos\Assignment_5.2\Assignment_5.2\obj\Debug\Assignment_5.2.g.resources
+C:\Users\40012826\source\repos\Assignment_5.2\Assignment_5.2\obj\Debug\Assignment_5._2.Properties.Resources.resources
+C:\Users\40012826\source\repos\Assignment_5.2\Assignment_5.2\obj\Debug\Assignment_5.2.csproj.GenerateResource.cache
+C:\Users\40012826\source\repos\Assignment_5.2\Assignment_5.2\obj\Debug\Assignment_5.2.csproj.CoreCompileInputs.cache
+C:\Users\40012826\source\repos\Assignment_5.2\Assignment_5.2\obj\Debug\Assignment_5.2.exe
+C:\Users\40012826\source\repos\Assignment_5.2\Assignment_5.2\obj\Debug\Assignment_5.2.pdb
