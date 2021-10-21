@@ -1,0 +1,15 @@
+C:\Users\40012826\source\repos\Assignment_5.1\Assignment_5.1\obj\Debug\Assignment_5.1.csproj.AssemblyReference.cache
+C:\Users\40012826\source\repos\Assignment_5.1\Assignment_5.1\obj\Debug\MainWindow.g.cs
+C:\Users\40012826\source\repos\Assignment_5.1\Assignment_5.1\obj\Debug\App.g.cs
+C:\Users\40012826\source\repos\Assignment_5.1\Assignment_5.1\obj\Debug\Assignment_5.1_MarkupCompile.cache
+C:\Users\40012826\source\repos\Assignment_5.1\Assignment_5.1\obj\Debug\Assignment_5.1_MarkupCompile.lref
+C:\Users\40012826\source\repos\Assignment_5.1\Assignment_5.1\bin\Debug\Assignment_5.1.exe.config
+C:\Users\40012826\source\repos\Assignment_5.1\Assignment_5.1\bin\Debug\Assignment_5.1.exe
+C:\Users\40012826\source\repos\Assignment_5.1\Assignment_5.1\bin\Debug\Assignment_5.1.pdb
+C:\Users\40012826\source\repos\Assignment_5.1\Assignment_5.1\obj\Debug\MainWindow.baml
+C:\Users\40012826\source\repos\Assignment_5.1\Assignment_5.1\obj\Debug\Assignment_5.1.g.resources
+C:\Users\40012826\source\repos\Assignment_5.1\Assignment_5.1\obj\Debug\Assignment_5._1.Properties.Resources.resources
+C:\Users\40012826\source\repos\Assignment_5.1\Assignment_5.1\obj\Debug\Assignment_5.1.csproj.GenerateResource.cache
+C:\Users\40012826\source\repos\Assignment_5.1\Assignment_5.1\obj\Debug\Assignment_5.1.csproj.CoreCompileInputs.cache
+C:\Users\40012826\source\repos\Assignment_5.1\Assignment_5.1\obj\Debug\Assignment_5.1.exe
+C:\Users\40012826\source\repos\Assignment_5.1\Assignment_5.1\obj\Debug\Assignment_5.1.pdb
